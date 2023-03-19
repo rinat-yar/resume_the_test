@@ -2,7 +2,7 @@
 
 Ярмухамедов Ринат
 
-<image src="D:/Фото с телефона/GZzGOfv22RQ.jpg" alt=" моё фото">
+![GZzGOfv22RQ](https://user-images.githubusercontent.com/127385270/226170205-255d6029-b18e-487a-9428-c1344445a697.jpg)
 
 Студент netology
 
